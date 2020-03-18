@@ -1,4 +1,4 @@
-# basm.vue
+# bsam.vue
 
 ## Project setup
 ```
